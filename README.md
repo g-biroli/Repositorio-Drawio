@@ -1,2 +1,2 @@
-# Clase-Programacion-UE
-Esta carpeta es para la clase del Java en la universidad europea
+# Clase de Diagramas
+Este repositorio hay actividades de las asignaturas de Base de datos y Entornos de desarrollo
